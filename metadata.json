@@ -1,0 +1,6 @@
+{
+  "name": "PetLeve - Manual da Saúde do Pet",
+  "description": "Aprenda a tratar a obesidade do seu animal de estimação de forma saudável, segura e sem sofrimento. O guia definitivo para cães e gatos viverem mais e melhor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
